@@ -1,0 +1,160 @@
+  {
+    "data" : [{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/aston-martin-vulcan.jpg",
+        "manufacturer" : "Aston Martin Vulcan",
+        "model" : "Vulcan",
+        "price" : 2300000,
+        "quality" : [{ 
+            "name" : "Top Speed",
+            "definition" : "225 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "7.0L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 800
+        },{ 
+            "name" : "Year",
+            "definition" : 2016
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+        }],
+        "wiki" : "https://en.wikipedia.org/wiki/Aston_Martin_Vulcan"
+    },{ 
+        "img" : "https://pix-feed.com/wp-content/uploads/2019/08/4-10.jpg",
+        "manufacturer" : "BMW 8 series",
+        "model" : "M850i",
+        "price" : 112895,
+        "quality" : [{ 
+              "name" : "Top Speed",
+            "definition" : "159 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "5.59L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 523
+        },{ 
+            "name" : "Year",
+            "definition" : 2020
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+        }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/BMW_8_Series"
+    },{ 
+        "img" : "https://pix-feed.com/wp-content/uploads/2019/08/7-4.jpg",
+        "manufacturer" : "Lamborghini Sesto Elemento",
+        "model" : "Sesto Elemento",
+        "price" : 2950000,
+        "quality" : [ { 
+            "name" : "Top Speed",
+            "definition" : "217 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "5.70L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 570
+        },{ 
+            "name" : "Year",
+            "definition" : 2010
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+        }
+          
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Lamborghini_Sesto_Elemento"
+    },{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/alfa-romeo-giulia-quadrifoglio.jpg",
+        "manufacturer" : "Alfa Romeo Giulia Quadrifoglio",
+        "model" : "	Giulia",
+        "price" : 70000,
+        "quality" : [ { 
+           "name" : "Top Speed",
+            "definition" : "191 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "7.0L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 510
+        },{ 
+            "name" : "Year",
+            "definition" : 2016
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(952)"
+    },{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/ferrari-488-gtb.jpg",
+        "manufacturer" : "Ferrari 488 GTB",
+        "model" : 488,
+        "price" : 40000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "205 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "7.8L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 670
+        },{ 
+            "name" : "Year",
+            "definition" : 2021
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Ferrari_488"
+    }]
+},{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/scuderia-cameron-glickenhaus-scg003.jpg",
+        "manufacturer" : "Scuderia Cameron Glickenhaus SCG003",
+        "model" : " SCG003",
+        "price" : 2000000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "220 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "7.5L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 750
+        },{ 
+            "name" : "Year",
+            "definition" : 2017
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Scuderia_Cameron_Glickenhaus_SCG_003"
+    }]
+}
