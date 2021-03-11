@@ -155,6 +155,114 @@
             "definition" : "supercar"
             }
         ],
-        "wiki" : "https://en.wikipedia.org/wiki/Scuderia_Cameron_Glickenhaus_SCG_003"
+        "wiki" : "https://en.wikipedia.org/wiki/Scuderia_Cameron_GliKoenigsegg Regerackenhaus_SCG_003"
+    }]
+},{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/koenigsegg-regera.jpg",
+        "manufacturer" : "Koenigsegg Regera",
+        "model" : "Regera",
+        "price" : 1900000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "255 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "7.59L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 1590
+        },{ 
+            "name" : "Year",
+            "definition" : 2017
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Koenigsegg_Regera"
+    }]
+},{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/chevrolet-corvette-zr1.jpg",
+        "manufacturer" : "Chevrolet Corvette ZR1",
+        "model" : " ZR1",
+        "price" : 120000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "210 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "5.1L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 765
+        },{ 
+            "name" : "Year",
+            "definition" : 2019
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Chevrolet_Corvette_ZR-1"
+    }]
+},{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/aston-martin-ss100.jpg",
+        "manufacturer" : "Aston Martin СС100",
+        "model" : "СС100",
+        "price" : 770000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "180 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "5.0L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 517
+        },{ 
+            "name" : "Year",
+            "definition" : 2013
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Aston_Martin_CC100"
+    }]
+},{ 
+        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/porsche-911-gt3rs.jpg",
+        "manufacturer" : "Porsche 911 GT3RS",
+        "model" : "GT3RS",
+        "price" : 2200000,
+        "quality" : [{ 
+                "name" : "Top Speed",
+            "definition" : "194 mph",
+        },{ 
+            "name" : "Displacement",
+            "definition" : "5.85L",
+        },{ 
+            "name" : "Horsepower",
+            "definition" : 520
+        },{ 
+            "name" : "Year",
+            "definition" : 2019
+        },{ 
+            "name" : "Body style",
+            "definition" : "couple"
+        },{ 
+            "name" : "Car segment",
+            "definition" : "supercar"
+            }
+        ],
+        "wiki" : "https://en.wikipedia.org/wiki/Porsche_911_GT3"
     }]
 }
