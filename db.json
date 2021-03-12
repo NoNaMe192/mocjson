@@ -16,31 +16,3 @@ Ext.define('MyApp.model.CarChart', {
 });
 
 
-Ext.define('MyApp.model.CarData', {
-    extend: 'Ext.data.Model',
-
-    requires: [
-        'Ext.data.Field'
-    ],
-
-    fields: [
-        {
-            name: 'Top speed'
-        },
-        {
-            name: 'model'
-        },
-        {
-            name: 'price'
-        },
-        {
-            name: 'wiki'
-        },
-        {
-            name: 'img'
-        },
-        {
-            name: 'quality'
-        }
-    ]
-});
